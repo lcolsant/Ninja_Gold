@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+form{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    border: 1px solid navy;
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#gold_form{
+    display: block;
+    border: none;
+
+}
+input#input_gold{
+    display:inline-block;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+}
+label{
+    display: block;
+    
+}
+
+h1{
+    /* margin: 20px auto; */
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+    color: navy;
+}
+
+h3{
+    /* margin: 20px auto; */
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: navy;
+}
+
+button{
+    margin: 10px auto;
+    display: block;
+    width: 100px;
+    height: 50px;
+    color: navy;
+    font-weight: bold;
+}
+
+
+p{
+    /* text-align: center; */
+    margin-left: 10px;
+}
+
+#lbl_gold{
+    display: inline;
+    margin-left: 10px;
+}
+
+textarea{
+    width: 650px;
+    height: 100px;
+}
+
+#textbox{
+    border: none;
+}
+
