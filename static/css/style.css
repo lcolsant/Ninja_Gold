@@ -8,7 +8,7 @@ form{
     margin-left: 10px;
     text-align: center;
     border: 1px solid navy;
-    width: 150px;
+    width: 180px;
     display: inline-block;
     vertical-align: top;
 }
@@ -76,3 +76,48 @@ textarea{
     border: none;
 }
 
+.score{
+    /* outline: 1px solid blue; */
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.forms{
+    /* outline: 1px solid red; */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.form-block{
+    /* outline: 1px solid teal; */
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.form-block:first-child{
+    margin-left: 0px;
+}
+
+
+.history{
+    /* outline: 1px solid green; */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.reset{
+    /* outline: 1px solid purple; */
+    margin: 10px 10px;
+}
+
+#lost-gold{
+    color: red;
+}
+
+#won-gold{
+    color: green;
+}
